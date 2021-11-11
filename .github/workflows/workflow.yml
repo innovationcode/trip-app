@@ -26,3 +26,12 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The folder the action should deploy. 
+
+  
+      # - name: Deploy
+      #   uses: JamesIves/github-pages-deploy-action@releases/v3
+      #   with:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #     BASE_BRANCH: master
+      #     BRANCH: gh-pages
+      #     FOLDER: website/build
