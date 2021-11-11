@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trip-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/trip-app/static/js/main.c9bbed8d.chunk.js",
+    "main.js.map": "/trip-app/static/js/main.c9bbed8d.chunk.js.map",
+    "runtime-main.js": "/trip-app/static/js/runtime-main.35c85e45.js",
+    "runtime-main.js.map": "/trip-app/static/js/runtime-main.35c85e45.js.map",
+    "static/js/2.5f0db6da.chunk.js": "/trip-app/static/js/2.5f0db6da.chunk.js",
+    "static/js/2.5f0db6da.chunk.js.map": "/trip-app/static/js/2.5f0db6da.chunk.js.map",
+    "static/js/3.645eca0d.chunk.js": "/trip-app/static/js/3.645eca0d.chunk.js",
+    "static/js/3.645eca0d.chunk.js.map": "/trip-app/static/js/3.645eca0d.chunk.js.map",
+    "index.html": "/trip-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/trip-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5f0db6da.chunk.js.LICENSE.txt": "/trip-app/static/js/2.5f0db6da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/trip-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35c85e45.js",
+    "static/js/2.5f0db6da.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c9bbed8d.chunk.js"
+  ]
+}
